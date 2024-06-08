@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=Olá!+me+chamo+Caio+Diniz;Sou+estudante+de;Ciência+da+Computação" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=Olá!+me+chamo+joshua+Victor;Sou+estudante+de;Ciência+da+Computação" alt="Typing SVG" /></a>
 
 
 - 🥇 2° período de Ciência da Computação.
