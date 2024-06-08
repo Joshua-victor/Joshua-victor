@@ -1,58 +1,29 @@
-<h3 align="center">
- Bem Vindo à meu perfil!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# Bem-vindo ao Meu Perfil GitHub! 🎉
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=0EF732&center=true&vCenter=true&width=435&lines=Olá!+me+chamo+joshua+Victor;Sou+estudante+de;Ciência+da+Computação" alt="Typing SVG" /></a>
+Hey, eu sou o Joshua Victor! 👋 Estou animado para compartilhar um pouco sobre mim e os projetos que estou trabalhando.
 
+## Sobre Mim
 
-- 🥇 2° período de Ciência da Computação.
-- 🌱 Estudando C, C++ e Java.
-- 📫 Contate-me no email: victorjoshua193@gmail.com
+- 👨‍💻 Estudante de Ciência da Computação na PUC Minas, atualmente no 2º período.
+- 📚 Apaixonado por aprender e explorar novas tecnologias.
+- 💻 Linguagens favoritas: C, C++ e Java.
+- 🌟 Fã de One Piece! ⚓️ A jornada de Luffy e sua tripulação sempre me inspira!
 
-##
+## Contatos
 
+Quer bater um papo ou saber mais sobre o que estou fazendo? Me encontre aqui:
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&username=Joshua-victor" height="150"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&username=Joshua-victor" height="150"   />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua-victor&theme=great-gatsby&hide_border=true&background=EB545400" /></p>
-</div
+- 📷 [Instagram](https://www.instagram.com/itsjoshvictor?igsh=MWQ1eHY2a3l3M2Y5MQ==)
+- ✉️ [X](https://x.com/itsjoshvictor?t=UsELefgVcezKuWBSPdXczA&s=09)
 
+## Vamos Navegar Juntos!
 
-
-
-
-
-
-
-
-<!--Gráfico-->
-![Joshua-victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-victor&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
-
-## 🛠  Tech Stack
+Se você está interessado em colaborar ou apenas quer trocar ideias sobre programação, fique à vontade para entrar em contato. Estou sempre aberto a novas conexões e oportunidades emocionantes!
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"                   height="30" width="42" alt="C logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"   height="30" width="42" alt="Cplusplus logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"           height="30" width="42" alt="html5 logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"             height="30" width="42" alt="css3 logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
 </div>
 
-## 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me>
+--- 
 
- <h2 align="center">Contate-me também por:</h2>
- 
-  <p align="center">
-      <a href="https://www.instagram.com/itsjoshvictor/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="joshua" height="30"/></a>
-      <br>
-    </p>
-   
- 
-     
-     
+⭐️ Espero que você tenha se divertido conhecendo um pouco sobre mim! Vamos construir algo incrível juntos! ⭐️
