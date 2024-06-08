@@ -45,6 +45,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me>
 
  <h2 align="center">Contate-me também por:</h2>
+ 
+  <p align="center">
+      <a href="https://www.instagram.com/itsjoshvictor/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="joshua" height="30"/></a>
+      <br>
+    </p>
    
  
      
