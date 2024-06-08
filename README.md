@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao Meu Perfil GitHub! 🚀</h1>
+<h1 align="center">Bem-vindo ao Meu Perfil GitHub! 🏴‍☠️</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
@@ -8,7 +8,7 @@
 <h2 align="center">Sobre Mim</h2>
 
 - 🎒 Estudante de Ciência da Computação, 2º período na PUC Minas.
-- 📚 Estudando C, C++ e Java.
+- 📚 Apaixonado por aprender C, C++ e Java.
 - ✉️ Email: victorjoshua193@gmail.com.
 
 <h2 align="center">Contatos</h2>
@@ -36,4 +36,8 @@
   <a href="mailto:victorjoshua193@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="250">
 </div>
