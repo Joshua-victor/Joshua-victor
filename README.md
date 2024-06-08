@@ -1,16 +1,29 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="150">
 </div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-  Bem-vindo ao Meu Perfil GitHub! 
+  Bem-vindo ao Meu Perfil GitHub! 🏴‍☠️
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
 
-<h2 align="center">Olá, sou o <span style="color: #ff6600;">Joshua Victor</span>, estudante de Ciência da Computação na PUC Minas! 🎓</h2>
+<h2 align="center" id="animated-text"></h2>
 
-<p align="center">Estou aqui para compartilhar minha jornada na programação e meus projetos empolgantes!</p>
+<script>
+  const text = "Olá, sou o <span style='color: #ff6600;'>Joshua Victor</span>, estudante de Ciência da Computação na PUC Minas! 🎓";
+  let index = 0;
+
+  function animateText() {
+    if (index < text.length) {
+      document.getElementById("animated-text").innerHTML += text.charAt(index);
+      index++;
+      setTimeout(animateText, 50);
+    }
+  }
+
+  animateText();
+</script>
 
 <h2 align="center">Sobre Mim</h2>
 
@@ -39,8 +52,4 @@
 
 <h2 align="center">Connect with Me</h2>
 
-<div align="center">
-  <a href="mailto:victorjoshua193@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+<div align="cente
