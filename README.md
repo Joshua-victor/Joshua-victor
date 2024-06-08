@@ -38,6 +38,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="250">
+<div align="right">
+  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="200">
 </div>
