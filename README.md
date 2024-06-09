@@ -1,27 +1,34 @@
-<div style="float: right; margin: 10px;">
-  <img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="100">
-</div>
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  Olá, sou o <span style="color: #ff6600;">Joshua Victor</span>!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-</h1>
 
-<p>👨‍💻 Estudante de Ciência da Computação apaixonado por resolver problemas e aprender novas tecnologias.</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=FF610B&center=true&vCenter=true&width=1200&height=100&lines=Hello!+My+name+is+Joshua+Victor;">
+  </p>
 
-<p>💡 Estou constantemente buscando maneiras de melhorar minhas habilidades e compartilhar conhecimento com outras pessoas.</p>
+  <br>
 
-<p>🌱 Atualmente, estou aprendendo C, C++ e Java, e estou animado para explorar novos desafios e oportunidades!</p>
+  <p align="center">
+    <b>👨‍💻 About me</b>
+  </p>
 
-<div>
-  <a href="mailto:victorjoshua193@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/itsjoshvictor/?igshid=MWQ1eHY2a3l3M2Y5MQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/itsjoshvictor?t=UsELefgVcezKuWBSPdXczA&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-%230077B5.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-</div>
+  <p align="center">
+    - 📧 Email: victorjoshua193@gmail.com <br>
+    - 🎓 Studying Computer Science at PUC <br>
+    - 📚 Learning C, C++, and Java <br>
+    - 📅 Currently in the 2nd period <br>
+  </p>
+
+  <br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-victor&layout=compact&theme=dark" alt="Top Languages" />
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Joshua-victor&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </div>
+
+  <br>
+
+  
