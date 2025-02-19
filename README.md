@@ -14,7 +14,7 @@
     - 📧 Email: victorjoshua193@gmail.com <br>
     - 🎓 Studying Computer Science at PUC <br>
     - 📚 Learning C, C++, and Java <br>
-    - 📅 Currently in the 2nd period <br>
+    - 📅 Currently in the 3nd period <br>
   </p>
 
   <br>
