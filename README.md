@@ -1,7 +1,7 @@
 
 
   <p align="center">
-    <img src ="https://github.com/user-attachments/assets/a66503af-9503-438b-9ee1-75120019fac7;">
+     <img src="https://github.com/user-attachments/assets/a6503af-9503-438b-9ee1-75120019fac7">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=FF610B&center=true&vCenter=true&width=1200&height=100&lines=Hello!+My+name+is+Joshua+Victor;">
   </p>
 
