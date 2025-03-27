@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d26a898c-bde9-43d8-b50c-7e82e8265515" alt="Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=4983ff&center=true&vCenter=true&width=1200&height=100&lines=Hello!+My+name+is+Joshua+Victor;">
