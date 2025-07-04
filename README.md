@@ -19,14 +19,11 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Joshua-victor&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-victor&layout=compact&theme=github_dark" alt="Top Langs" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img src="https://streak-stats.demolab.com?user=Joshua-victor&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
   </tr>
