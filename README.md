@@ -10,6 +10,8 @@
 
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshua-victor&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-victor&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshua's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Joshua-victor&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ### Tecnologias das quais eu possuo algum conhecimento:
 <div style="display: inline_block">
