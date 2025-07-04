@@ -10,7 +10,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjoshvictor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsjoshvictor?igsh=MWQ1eHY2a3l3M2Y5MQ==)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-victor_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenodft&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenodft&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias das quais eu possuo algum conhecimento:
