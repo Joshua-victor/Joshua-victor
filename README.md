@@ -21,8 +21,6 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-victor&layout=compact&theme=github_dark" alt="Top Langs" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=Joshua-victor&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
