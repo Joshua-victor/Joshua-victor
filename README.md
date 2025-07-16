@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/itsjoshvictor?igsh=MWQ1eHY2a3l3M2Y5MQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-   <a href="mailto:victorjoshua193@gmail.com">
+    <a href="mailto:victorjoshua193@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
       alt="Gmail"/>
