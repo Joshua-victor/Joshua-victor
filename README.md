@@ -6,18 +6,17 @@
 <hr> </br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsjoshvictor/">
+  <a href="https://www.linkedin.com/in/itsjoshvictor/" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/itsjoshvictor?igsh=MWQ1eHY2a3l3M2Y5MQ==">
+  <a href="https://www.instagram.com/itsjoshvictor?igsh=MWQ1eHY2a3l3M2Y5MQ==" style="margin: 0 8px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-    <a href="mailto:victorjoshua193@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-      alt="Gmail"/>
-    </a>
+  <a href="mailto:victorjoshua193@gmail.com" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>
 </p>
+
 
 <br>
 
