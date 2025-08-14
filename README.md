@@ -35,9 +35,6 @@
 <hr>
 <br>
 
-<img src="https://raw.githubusercontent.com/Joshua-victor/Joshua-victor/output/snake.svg" alt="Snake animation" />
-
-###
 
 ### Tecnologias das quais eu possuo algum conhecimento:
 <div style="display: inline_block">
