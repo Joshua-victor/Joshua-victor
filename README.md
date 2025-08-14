@@ -35,6 +35,10 @@
 <hr>
 <br>
 
+<img src="https://raw.githubusercontent.com/Joshua-victor/Joshua-victor/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### Tecnologias das quais eu possuo algum conhecimento:
 <div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
