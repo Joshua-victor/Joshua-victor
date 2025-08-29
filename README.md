@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=4983ff&center=true&vCenter=true&width=1200&height=100&lines=Hello!+My+name+is+Joshua+Victor;">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=435&lines=system.out.println(%22Hello+World%22);Bem+vindo+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
 </p>
 
 <br>
